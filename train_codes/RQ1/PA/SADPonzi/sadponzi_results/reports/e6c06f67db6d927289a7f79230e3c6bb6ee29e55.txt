@@ -1,0 +1,2 @@
+ERROR: PicklingError: Can't pickle <function combined_exploit at 0x000001CA9E468040>: it's not the same object as teether.exploit.combined_exploit
+ 0xe6c06f67db6d927289a7f79230e3c6bb6ee29e55
